@@ -61,7 +61,7 @@ Tested in Wokwi - Tinkercad didn't have OLED so we moved to Wokwi.
 ![8](ShareX_ow7hOAcCHz.png)
 
 **9**
-![9](ShareX_zKLlogJFbQ.png)
+![9](ShareX_zKLIogJFbQ.png)
 
 ## Acknowledgments
 Thanks to Arduino community and YouTube tutorials for wiring help.
