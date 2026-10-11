@@ -37,31 +37,31 @@ Tested in Wokwi - Tinkercad didn't have OLED so we moved to Wokwi.
 ### Output Screenshots
 
 **1**
-![1](ShareX_25jW5gq9U5.png)
+![1](ONE.png)
 
 **2**
-![2](ShareX_I8VrLoDOzW.png)
+![2](TWO.png)
 
 **3**
-![3](ShareX_NAbobh2VOJ.png)
+![3](THREE.png)
 
 **4**
-![4](ShareX_IOyxXpoLeI.png)
+![4](FOUR.png)
 
 **5**
-![5](ShareX_IOyxXpoLeI.png)
+![5](FIVE.png)
 
 **6**
-![6](ShareX_NAbobh2VOJ.png)
+![6](SIX.png)
 
 **7**
-![7](ShareX_jau4806qpu.png)
+![7](SEVEN.png)
 
 **8**
-![8](ShareX_ow7hOAcCHz.png)
+![8](EIGHT.png)
 
 **9**
-![9](ShareX_zKLIogJFbQ.png)
+![9](NINE.png)
 
 ## Acknowledgments
 Thanks to Arduino community and YouTube tutorials for wiring help.
