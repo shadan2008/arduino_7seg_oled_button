@@ -14,7 +14,7 @@ built with Arduino UNO, common anode 7-segment display, SSD1306 OLED. and push b
 
 ##  Wiring
 - 7-seg a-g -> D2-D8
-- Button -> D10 + GND (INPUT_PULLUP)
+- Button -> D10 + GND (INPUT)
 - OLED SDA -> A4, SCL -> A5, VCC -> 5V, GND -> GND
 
 ## how it works
@@ -30,6 +30,38 @@ built with Arduino UNO, common anode 7-segment display, SSD1306 OLED. and push b
 - **Circuit Diagram Tools** if you want to use you can use 'Tinker Cad', 'WoKwi'
 - **PHOTOPEA** to make the pixel image and convert it into PNG image form
 - **GitHub** to host this project
+
+### Wokwi Circuit
+Tested in Wokwi - Tinkercad didn't have OLED so we moved to Wokwi.
+
+### Output Screenshots
+
+**1**
+![1](ShareX_25jW5gq9U5.png)
+
+**2**
+![2](ShareX_CwksPB1seC.png)
+
+**3**
+![3](ShareX_DBEdhzZqiz.png)
+
+**4**
+![4](ShareX_J8VrLoDOzW.png)
+
+**5**
+![5](ShareX_JOyxXpoLeI.png)
+
+**6**
+![6](ShareX_NAbobh2VOJ.png)
+
+**7**
+![7](ShareX_jau4806qpu.png)
+
+**8**
+![8](ShareX_ow7hOAcCHz.png)
+
+**9**
+![9](ShareX_zKLlogJfbQ.png)
 
 ## Acknowledgments
 Thanks to Arduino community and YouTube tutorials for wiring help.
