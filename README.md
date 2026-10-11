@@ -46,10 +46,10 @@ Tested in Wokwi - Tinkercad didn't have OLED so we moved to Wokwi.
 ![3](ShareX_DBEdnzZqiz.png)
 
 **4**
-![4](ShareX_L8VrLoDOzW.png)
+![4](ShareX_I8VrLoDOzW.png)
 
 **5**
-![5](ShareX_LOyxXpoLeI.png)
+![5](ShareX_IOyxXpoLeI.png)
 
 **6**
 ![6](ShareX_NAbobh2VOJ.png)
