@@ -63,5 +63,9 @@ Tested in Wokwi - Tinkercad didn't have OLED so we moved to Wokwi.
 **9**
 ![9](NINE.png)
 
+### Wokwi Circuit
+tested in wokwi
+live Simulation: https://wokwi.com/projects/477572260396583937
+
 ## Acknowledgments
 Thanks to Arduino community and YouTube tutorials for wiring help.
